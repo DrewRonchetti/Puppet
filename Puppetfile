@@ -1,3 +1,4 @@
+#Production Environment
 forge 'https://forge.puppet.com'
 
 # Modules from the Puppet Forge
@@ -6,6 +7,11 @@ forge 'https://forge.puppet.com'
 mod 'puppetlabs/stdlib',      '4.25.1'
 mod 'puppetlabs/concat',      '4.2.1'
 #mod 'puppetlabs/apache',      '3.1.0'
+
+# Control Repository
+mod 'Puppet',
+    :git    => 'git@github.com:DrewRonchetti/Puppet.git',
+    :branch => 'production'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
