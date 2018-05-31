@@ -15,7 +15,7 @@ mod 'tpdownes/sysctl',         '2.1.0'
 #DNS management Ubuntu
 mod 'resolver',
     :git    => 'https://github.com/DrewRonchetti/resolver.git',
-    :branch => 'testing'
+    :branch => 'master'
 
 
 # EXAMPLES Modules from Git
