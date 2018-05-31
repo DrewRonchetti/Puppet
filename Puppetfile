@@ -9,9 +9,12 @@ mod 'puppetlabs/concat',      '4.2.1'
 mod 'puppetlabs/ntp',         '7.1.1'
 
 # Modules from community Forge:
+mod 'tpdownes/sysctl',         '2.1.0'
 
 # Custom Modules
 #DNS management Ubuntu
+mod 'resolver',
+    :git => 'https://github.com/DrewRonchetti/resolver.git'
 
 
 # EXAMPLES Modules from Git
