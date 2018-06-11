@@ -8,7 +8,7 @@ mod 'puppetlabs/stdlib',   '4.25.1'
 mod 'puppetlabs/concat',   '4.2.1'
 mod 'puppetlabs/ntp',      '7.1.1'
 mod 'puppetlabs/accounts', '1.3.0'
-mod 'puppetlavs/firewall', '1.12.0'
+mod 'puppetlabs/firewall', '1.12.0'
 
 # Modules from community Forge:
 mod 'tpdownes/sysctl',   '2.1.0'
