@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef0d97c1-3012-4056-af71-4947eb8c9bd0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Puppetfile" beforeDir="false" afterPath="$PROJECT_DIR$/Puppetfile" afterDir="false" />
-    </list>
+    <list default="true" id="ef0d97c1-3012-4056-af71-4947eb8c9bd0" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,16 +96,15 @@
       <updated>1527890512404</updated>
       <workItem from="1527890513666" duration="547000" />
       <workItem from="1528746874539" duration="679000" />
-      <workItem from="1528749707042" duration="237000" />
+      <workItem from="1528749707042" duration="590000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1463000" />
+    <option name="totallyTimeSpent" value="1816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1936" y="31" width="1781" height="1008" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21392477" />
       <window_info anchor="bottom" id="TODO" order="6" />
