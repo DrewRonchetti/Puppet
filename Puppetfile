@@ -10,7 +10,6 @@ mod 'puppetlabs/ntp',      '7.1.1'
 mod 'puppetlabs/accounts', '1.3.0'
 mod 'puppetlabs/firewall', '1.12.0'
 mod 'puppetlabs-apache',   '3.2.0'
-
 mod 'puppet-archive',      '3.1.0'
 mod 'puppetlabs-java',     '2.4.0'
 
